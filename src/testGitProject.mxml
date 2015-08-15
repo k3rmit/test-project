@@ -7,7 +7,7 @@
 	</fx:Declarations>
 	<fx:Script>
 		<![CDATA[
-			private const class_name:String = "test";
+			private const class_name:String = "test3";
 		]]>
 	</fx:Script>
 </s:WindowedApplication>
